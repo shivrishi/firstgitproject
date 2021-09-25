@@ -1,1 +1,2 @@
 second branch first file
+modified text in s branch only.
